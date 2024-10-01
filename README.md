@@ -1,0 +1,2 @@
+# baseConocimiento
+Proyecto Inteligencia arficial
